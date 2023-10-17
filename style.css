@@ -5,12 +5,12 @@ body{
 #titulo{
     text-align: center;
     font-size: 30px ;
-    color: rgb(3, 140, 119);
+    color: rgb(253, 254, 254);
 }
 
 
 .texto{
     text-align: justify;
     font-size: 20px;
-    color:  rgb(100, 211, 194);
+    color:  rgb(133, 213, 201);
 }
