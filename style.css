@@ -7,10 +7,9 @@ body{
 }
 
 #banner{
-    width: 40%;
+    width: 30%;
     float: left;
     margin-left: 30px;
-    
 }
 
 #titulo{
@@ -26,6 +25,11 @@ body{
     color:  #1C2611;
     line-height: 1.5;
     padding-top: 1em;
+}
+
+img{
+   width: 40%;
+   margin: 5px;
 }
 
 .salto{
