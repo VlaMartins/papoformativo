@@ -18,5 +18,5 @@ body{
 #imgprincipal{
     background-image: url(fundo.jpg);
     background-repeat: no-repeat;
-    background-size:auto;
+    background-size:cover;
 }
