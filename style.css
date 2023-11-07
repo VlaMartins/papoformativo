@@ -1,5 +1,8 @@
 body{
     background-color: #1c222e;
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
 }
 
 #titulo{
@@ -16,7 +19,5 @@ body{
 }
 
 #imgprincipal{
-    background-image: url(fundo.jpg);
-    background-repeat: no-repeat;
-    background-size:cover;
+   
 }
