@@ -22,7 +22,6 @@ body{
     text-align: justify;
     font-size: 15px;
     color:  #1C2611;
-    display: inline-block;
 }
 
 img{
@@ -30,7 +29,7 @@ img{
 }
 
 .salto{
-    display: flex;
+    display: block;
     justify-content: space-between;
     float: right;
 }
