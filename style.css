@@ -29,7 +29,5 @@ img{
 }
 
 .salto{
-    display: block;
-    justify-content: space-between;
-    float: right;
+    float : right;
 }
