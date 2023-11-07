@@ -31,5 +31,5 @@ img{
 .salto{
     display: flex;
     justify-content: space-between;
-    align-items: right;
+    float: right;
 }
