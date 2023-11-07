@@ -27,3 +27,8 @@ body{
 img{
    width: 40%;
 }
+
+.salto{
+    display: flex;
+    align-items: right;
+}
