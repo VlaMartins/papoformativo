@@ -15,8 +15,6 @@ body{
     text-align: center;
     font-size: 30px ;
     color: #1C2611;
-    margin: 0;
-    padding: 0;
 }
 
 .classe-titulo{
@@ -32,8 +30,6 @@ body{
     font-size: 15px;
     color:  #1C2611;
     line-height: 1.5;
-    padding-top: 2em;
-    margin: 20px;
 }
 
 
@@ -42,6 +38,5 @@ body{
     font-size: 15px;
     color:  #1C2611;
     line-height: 2.0;
-    margin: 20px;
 }
 
