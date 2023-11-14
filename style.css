@@ -30,6 +30,9 @@ body{
     margin: 10px;
 }
 
+.conteudo-imagem{
+    padding: 30px;
+}
 .texto{
     text-align: justify;
     font-size: 15px;
