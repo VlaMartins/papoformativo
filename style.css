@@ -18,7 +18,7 @@ body{
     color: #1C2611;
 }
 
-.texto, ul, li{
+.texto{
     text-align: justify;
     font-size: 15px;
     color:  #1C2611;
@@ -41,3 +41,10 @@ img{
 }
 
 
+.li{
+    text-align: justify;
+    font-size: 15px;
+    color:  #1C2611;
+    line-height: 1.5;
+    margin: 20px;
+}
