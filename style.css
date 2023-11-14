@@ -27,28 +27,19 @@ body{
  
 .conteudo{
     background-color: #dbf4b9;
-    margin: 10px;
-}
 
+}
 
 .conteudo-imagem{
     padding: 30px;
 }
+
 .texto{
     text-align: justify;
     font-size: 15px;
     color:  #1C2611;
     line-height: 1.5;
     padding-top: 2em;
-    margin: 20px;
-}
-
-
-.li ul{
-    text-align: justify;
-    font-size: 15px;
-    color:  #1C2611;
-    line-height: 2.0;
     margin: 20px;
 }
 
