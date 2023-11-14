@@ -8,8 +8,8 @@ body{
 
 #banner{
     width: 30%;
-    float: center;
-    margin-left: 30px;
+    margin: auto;
+    display: block;
 }
 
 #titulo{
