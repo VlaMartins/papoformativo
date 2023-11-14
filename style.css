@@ -1,5 +1,5 @@
 body{
-    background-color: #e0e5b7;
+
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Helvetica;
@@ -17,12 +17,12 @@ body{
     color: #1C2611;
 }
 
-.classetitulo{
-    
+.classe-titulo{
+    background-color: #cfd5a2 ;
 }
 
 .conteudo{
-
+    background-color: #e0e5b7;
 
 }
 .texto{
