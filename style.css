@@ -44,7 +44,7 @@ body{
     background-image: linear-gradient(#31581d, #aae18d  ) ;
     padding: 10px;
     color: #1C2611;
-    border-bottom: 2px solid greenyellow;
+    border-top: 8px solid rgb(152, 187, 98);
     font-size: 28px;
     text-align: center;
 }
@@ -53,5 +53,5 @@ body{
     background-color: #aae18d, #def9cf  ;
     padding: 10px;
     text-align: left;
-    border-bottom: 2px solid greenyellow;
+    border-bottom: 2px solid rgb(176, 244, 74);
 }
