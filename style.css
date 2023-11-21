@@ -43,3 +43,7 @@ body{
     margin: 20px;
 }
 
+.cabecalho{
+    background-image: linear-gradient(#31581d, #aae18d  ) ;
+    padding: 30px;
+}
