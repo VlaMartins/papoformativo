@@ -50,7 +50,7 @@ body{
 }
 
 .secao1{
-    background-color: #aae18d, #dbf4b9  ;
+    background-image: linear-gradient(#aae18d, #dbf4b9 );
     padding: 10px;
     text-align: left;
     border-bottom: 1px solid rgb(176, 244, 74);
