@@ -7,27 +7,25 @@ body{
 
 #banner{
     width: 30%;
-    padding: 20px;
-    margin: 20px;
+    padding: 10px;
+    margin: 10px;
     border-radius: 10px;
 }
 
 #titulo-principal{
-    font-size: 30px ;
+    font-size: 35px ;
     color: #1C2611;
-    padding: 20px;
+    padding: 10px;
     font-family: Calibri;
 }
 
-
- 
 .conteudo{
     background-color: #dbf4b9;
 
 }
 
 .conteudo-imagem{
-    padding: 30px;
+    padding: 20px;
     text-align: center; /*se eu alinhar o texto ele alinha ate a imagem*/
 }
 
@@ -37,7 +35,7 @@ body{
     color:  #1C2611;
     line-height: 1.5;
     padding-top: 2em;
-    margin: 20px;
+    margin: 10px;
 }
 
 .cabecalho{
