@@ -29,7 +29,7 @@ body{
 
 .conteudo-imagem{
     padding: 30px;
-    text-align: center;
+    text-align: center; /*se eu alinhar o texto ele alinha ate a imagem*/
 }
 
 .texto{
