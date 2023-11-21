@@ -45,6 +45,8 @@ body{
     border-top: 8px solid rgb(152, 187, 98);
     font-size: 28px;
     text-align: center;
+    margin: 0px;
+    padding: 0px;
 }
 
 .secao1{
