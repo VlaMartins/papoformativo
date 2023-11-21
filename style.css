@@ -20,10 +20,7 @@ body{
     padding: 20px;
 }
 
-.secao1{
-    background-color: #aae18d ;
-    padding: 30px;
-}
+
  
 .conteudo{
     background-color: #dbf4b9;
@@ -49,4 +46,11 @@ body{
     color: #1C2611;
     border-bottom: 2px solid greenyellow;
     font-size: 36px;
+    text-align: center;
+}
+
+.secao1{
+    background-color: #aae18d ;
+    padding: 30px;
+    text-align: left;
 }
