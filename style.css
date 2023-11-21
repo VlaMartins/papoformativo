@@ -15,6 +15,7 @@ body{
 #titulo-principal{
     font-size: 35px ;
     color: #1C2611;
+    padding: 10px;
     font-family: Calibri;
 }
 
@@ -39,6 +40,7 @@ body{
 
 .cabecalho{
     background-image: linear-gradient(#31581d, #aae18d  ) ;
+    padding: 10px;
     color: #1C2611;
     border-top: 8px solid rgb(152, 187, 98);
     font-size: 28px;
@@ -52,8 +54,4 @@ body{
     padding: 10px;
     text-align: left;
     border-bottom: 1px solid rgb(176, 244, 74);
-}
-
-.titulonivel2{
-    
 }
